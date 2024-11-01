@@ -152,3 +152,32 @@
 
 ## PUT
 ![putasesorrevisor](https://github.com/user-attachments/assets/8af0c4d8-98d7-4bb5-8c39-553a62729670)
+
+# [Pruebas de Jenkins del Pipeline (Fabian Pozuelos)](API-Residencias-pipeline-FabianPozuelos.groovy)
+
+## Pruebas de Empresas
+
+### POST
+![image](https://github.com/user-attachments/assets/c3a2f87c-b00b-4f8a-9141-4e2f30d70e87)
+
+### PUT
+![image](https://github.com/user-attachments/assets/16b91102-56a5-4cf8-8566-53dc3e6aea13)
+
+### GET
+
+## Pruebas de AsesorExterno
+
+### POST
+![image](https://github.com/user-attachments/assets/32214651-2ffb-470e-bc17-76afd6812ee1)
+
+## PUT
+![image](https://github.com/user-attachments/assets/90da0ad5-259c-465e-96d2-b0df8cfdea8f)
+
+## GET
+![image](https://github.com/user-attachments/assets/39062e2b-db0e-4448-a9da-8cd52bffbc7f)
+
+
+
+
+
+
