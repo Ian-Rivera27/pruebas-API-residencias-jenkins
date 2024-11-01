@@ -63,3 +63,44 @@
 
 ### Vizualizacion del GET despues del POST y PUT
 ![image](https://github.com/user-attachments/assets/6ff40994-a53a-49ce-aad8-27c798578820)
+
+# [Pruebas de Jenkins del Pipeline (Victor Hernández)](API-Residencias-pipeline-HernándezGómez.groovy)
+
+## Pruebas de Carreras
+### GET
+![getcarrera](https://github.com/user-attachments/assets/aa979706-d03a-4a2f-a335-c1d26a3bfdab)
+
+### POST
+![postcarrera](https://github.com/user-attachments/assets/32246f2f-c99d-4994-81f0-9c9252ac730e)
+
+### PUT
+![putcarrera](https://github.com/user-attachments/assets/4ff3071c-36bd-4760-93e2-3a8063505e27)
+
+### GET DESPUÉS DE CORRER POST Y PUT
+![getcarrera2](https://github.com/user-attachments/assets/f69b55e7-03ff-4589-a7b7-526123829981)
+
+## Pruebas de CoordinadorCarrera
+### GET
+![getcoordinadorcarrera](https://github.com/user-attachments/assets/9f419791-8886-49e2-a339-185ec93b92d6)
+
+### POST
+![postcoordinadorcarrera](https://github.com/user-attachments/assets/f33c2e30-9c86-4346-b0cf-1118e1c53b7f)
+
+### PUT
+![putcoordinadorcarrerra](https://github.com/user-attachments/assets/774ca19c-d70c-45b6-84b4-74f71234ce02)
+
+### GET DESPUÉS DE CORRER POST Y PUT
+![getcoordinadorcarrera2](https://github.com/user-attachments/assets/25ad2ed9-6e4c-49d5-acd1-7cf2b344b0c2)
+
+## Pruebas de AsesorRevisor
+## GET
+![getasesorrevisor](https://github.com/user-attachments/assets/0e27c5f4-01e7-4825-8676-df5e30402406)
+
+## POST
+![postasesorrevisor](https://github.com/user-attachments/assets/657c40f5-8cd7-4e7c-b555-6dce9d4774c2)
+
+## PUT
+![putasesorrevisor](https://github.com/user-attachments/assets/8af0c4d8-98d7-4bb5-8c39-553a62729670)
+
+
+
