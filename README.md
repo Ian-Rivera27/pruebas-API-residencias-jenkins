@@ -164,6 +164,7 @@
 ![image](https://github.com/user-attachments/assets/16b91102-56a5-4cf8-8566-53dc3e6aea13)
 
 ### GET
+![image](https://github.com/user-attachments/assets/9b724784-a2ce-4b5d-981d-bea3668e0a45)
 
 ## Pruebas de AsesorExterno
 
