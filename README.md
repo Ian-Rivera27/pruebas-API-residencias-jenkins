@@ -64,6 +64,57 @@
 ### Vizualizacion del GET despues del POST y PUT
 ![image](https://github.com/user-attachments/assets/6ff40994-a53a-49ce-aad8-27c798578820)
 
+
+# [Pruebas de Jenkins del Pipeline (Evelyn Corralejo)](API-Residencias-pipeline-EvelynCorralejo.groovy)
+
+## Pruebas de Alumnos
+### 1er GET
+![getStudents](https://github.com/user-attachments/assets/8aa5d045-2323-4212-bc62-d2e7ae7e145b)
+
+### 1er POST
+![insertStudent](https://github.com/user-attachments/assets/f5128234-f93f-412a-b3e7-955175bfe24a)
+
+### 2do POST
+![insertStudent](https://github.com/user-attachments/assets/407f6ec3-3528-420e-a235-018cd0cb666d)
+
+### 3er POST
+![insertStudent](https://github.com/user-attachments/assets/e86ed88d-8437-4c66-8478-a308665cb923)
+
+### Vizualizacion del GET despues del POST
+![getStudents](https://github.com/user-attachments/assets/d0d3386e-0fd4-4d9b-833d-9932ec5e4406)
+
+### PUT
+![updateStudent](https://github.com/user-attachments/assets/097c4ad2-1cb8-49c9-afa0-e1bdac40ad37)
+
+### Vizualizacion del GET despues del PUT
+![getStudents](https://github.com/user-attachments/assets/aab7cc0f-5c6e-4d88-9e22-4971c93b3647)
+
+## Pruebas de Maestros
+### 1er GET
+![getTeachers](https://github.com/user-attachments/assets/b0efd947-8db9-476a-9ed8-51c672fb4011)
+...
+![getTeachers](https://github.com/user-attachments/assets/511216af-7922-4689-babf-a23a5e29c303)
+
+### 1er POST
+![insertTeacher](https://github.com/user-attachments/assets/0032f88d-4da8-4bc3-9cef-6fb7bc7045ff)
+
+### 2do POST
+![insertTeacher](https://github.com/user-attachments/assets/c39a7226-5513-4a78-8c77-58355f8eb39c)
+
+### Vizualizacion del GET despues del POST
+![getTeachers](https://github.com/user-attachments/assets/793e4731-0366-4655-a6f1-d589fa10b316)
+...
+![getTeachers](https://github.com/user-attachments/assets/9711c651-9da9-474d-b8a1-671d971a692a)
+
+### PUT
+![updateTeacher](https://github.com/user-attachments/assets/462c7fe7-efa2-49e2-b3e0-016dcdbfa374)
+
+### Vizualizacion del GET despues del PUT
+![getTeachers](https://github.com/user-attachments/assets/81bdaa80-63c8-49f9-8310-d733a092c8cc)
+...
+![getTeachers](https://github.com/user-attachments/assets/14c2b629-33ba-4ed5-be25-0b6523b84385)
+
+
 # [Pruebas de Jenkins del Pipeline (Victor Hernández)](API-Residencias-pipeline-HernándezGómez.groovy)
 
 ## Pruebas de Carreras
