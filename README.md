@@ -101,6 +101,3 @@
 
 ## PUT
 ![putasesorrevisor](https://github.com/user-attachments/assets/8af0c4d8-98d7-4bb5-8c39-553a62729670)
-
-
-
